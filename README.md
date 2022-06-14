@@ -41,7 +41,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-kayes&theme=monokai)](https://git.io/streak-stats) -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/its-kayes/clothing-warehouse-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=github-readme-stats&theme=buefy" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
