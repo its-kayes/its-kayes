@@ -32,13 +32,14 @@ I'm a Junior Web Developer from Bangladesh.
 #### Top Repositories
 
 <a href="https://github.com/its-kayes/clothing-warehouse-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client&theme=dark" />
 </a>
 <a href="https://portfolio-18049.web.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=Portfolio&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=Portfolio&theme=dark" />
 </a>
 
 
+<br />
 <br />
 
 ![Metrics](https://metrics.lecoq.io/its-kayes?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&pagespeed=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FDhaka)
