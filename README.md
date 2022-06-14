@@ -43,12 +43,12 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-kayes&theme=monokai)](https://git.io/streak-stats) -->
 
 
-<!-- <a href="https://github.com/its-kayes/clothing-warehouse-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=github-readme-stats&theme=buefy" /> -->
+<a href="https://github.com/its-kayes/clothing-warehouse-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client&theme=buefy" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=anuraghazra.github.io&theme=buefy" />
-</a> -->
+<a href="https://portfolio-18049.web.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=Portfolio&theme=buefy" />
+</a>
 
 <br />
 <br />
