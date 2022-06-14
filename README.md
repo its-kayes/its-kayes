@@ -33,6 +33,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 #### Top Repositories
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=its-kayes)
+
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=github-readme-stats&theme=buefy" />
