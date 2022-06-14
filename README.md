@@ -1,4 +1,4 @@
-<p align="center"><a href="https://portfolio-18049.web.app/"><img width="80%" alt="Hello, I'm Emrul Kayes. Junior Web Developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://portfolio-18049.web.app/"><img width="80%" alt="Hello, I'm Emrul Kayes. Junior Web Developer!" src="./assets/web-developer-bg-jpg" /></a></p>
 
 <br />
 
@@ -28,17 +28,22 @@ I'm a Junior Web Developer from Bangladesh.
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+<br />
 
 #### Top Repositories
 
+<br />
+
 <a href="https://github.com/its-kayes/clothing-warehouse-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client&theme=synthwave" />
 </a>
 <a href="https://portfolio-18049.web.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=Portfolio&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=Portfolio&theme=synthwave" />
 </a>
 
 
+<br />
+<br />
 <br />
 <br />
 
