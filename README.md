@@ -1,8 +1,8 @@
-<p align="center"><a href="https://portfolio-18049.web.app/"><img width="80%" alt="Hello, I'm Emrul Kayes. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://portfolio-18049.web.app/"><img width="80%" alt="Hello, I'm Emrul Kayes. Junior Web Developer!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a Junior Web Developer from Bangladesh. 
 
 **About me**
 
@@ -28,20 +28,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-kayes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kayes's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-kayes&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-kayes)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-kayes&theme=github-dark)](https://git.io/streak-stats)
 
 #### Top Repositories
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-kayes&theme=monokai)](https://git.io/streak-stats) -->
-
 
 <a href="https://github.com/its-kayes/clothing-warehouse-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-kayes&repo=clothing-warehouse-client&theme=buefy" />
@@ -51,15 +39,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 </a>
 
 
+<br />
+
 ![Metrics](https://metrics.lecoq.io/its-kayes?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&pagespeed=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FDhaka)
-
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
