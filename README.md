@@ -1,16 +1,16 @@
-<p align="center"><a href="https://portfolio-18049.web.app/"><img width="80%" alt="Hello, I'm Emrul Kayes. Junior Web Developer!" src="./assets/web-developer-bg.png" /></a></p>
+<p align="center"><a href="https://portfolio-18049.web.app/"><img width="80%" alt="Hello, I'm Emrul Kayes. Junior Software Engneer!" src="./assets/web-developer-bg.png" /></a></p>
 
 <br />
 
-I'm a Junior Web Developer from Bangladesh. 
+I'm a Junior Software Engneer at Solutya Private Ltd from Bangladesh. 
 
 **About me**
 
-<!-- - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/) -->
+- 💼 Junior Software Engneer at [Solutya](https://solutya.com/)
 
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ React Frontend Developer, currently working with Backend Team.
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
