@@ -12,7 +12,7 @@ I'm a Junior Software Engneer at Solutya Private Ltd from Bangladesh.
 
 - ❤️ React Frontend Developer, currently working with Backend Team.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Expert in Mongodb, aslo have good knowladge about Mongoose Scehma.
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
