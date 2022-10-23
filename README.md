@@ -7,8 +7,6 @@
 ## Talks about
 - Typescript - NextJS - Firebase - Authentication - NodeJS - Mongodb
 
-<br />
-
 <h1  width="100"> 
   <p align="right"> <a href="https://discord.gg/83YMfkzVhT" target="_blank"> <img src="./assets/discord.svg" height="20"/> </a>
   <a href="https://www.linkedin.com/in/its-kayes/" target="_blank"> <img src="./assets/linkedin.svg" height="20"/> </a> </p> 
