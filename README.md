@@ -1,11 +1,11 @@
 # **Emrul Kayes**
 
 - 💬 Ask me about any Tech related topic.
-- 🤝 For Collaboration: [click here](https://emrul-kayes.live/contact)
-- 🤙 Knock me: [click here](https://emrul-kayes.live/)
+- 🤝 For Collaboration: [click here](https://dev-kayes.vercel.app/)
+- 🤙 Knock me: [click here](https://dev-kayes.vercel.app/)
 
 ## Talks about
-- Typescript - NextJS - Firebase - Authentication - NodeJS - Mongodb
+- NodeJS - Mongodb - Typescript - AWS - Nginx - Authentication
 
 <h1  width="100"> 
   <p align="right"> <a href="https://discord.gg/83YMfkzVhT" target="_blank"> <img src="./assets/discord.svg" height="20"/> </a>
