@@ -1,8 +1,9 @@
 # **Emrul Kayes**
 
-- 💬 Ask me about any Tech related topic.
-- 🤝 For Collaboration: [click here](https://dev-kayes.vercel.app/)
-- 🤙 Knock me: [click here](https://dev-kayes.vercel.app/)
+- 🕋 Progamoy Quran's lead backend developer. [click here](https://proggamoyquran.com/)
+- 🚗 Member of the Carbangla developer team. [click here](https://proggamoyquran.com/)
+- 🛠️ Currently cooking [Schooling](https://www.schooling.app/)
+- 📢 Teach Talk: [click here](https://www.kayes.dev/talks)
 
 ## Talks about
 - NodeJS - Mongodb - Typescript - AWS - Nginx - Authentication
