@@ -11,19 +11,9 @@
 - Typescript - NodeJS - Databases - Cloud - Software Architecture - Web Hosting & Security
 
 ## Contribution 
-  
-<div style="display: flex; flex-direction: row; gap: 10px; margin-left: 30px ">
-  <a href="[RTIS](https://rtis.cloud/)" target="_blank" style="text-decoration: underline;">RTIS</a> 
-  
-  <a href="[Carbangla](https://play.google.com/store/apps/details?id=com.carbangla.user)" target="_blank" style="text-decoration: underline;">Carbangla</a>
-  
-  <a href="[Proggamoy Quran](https://proggamoyquran.com/)" target="_blank" style="text-decoration: underline;">Proggamoy Quran</a>
 
-  <a href="[Schooling](https://main.schooling.app/)" target="_blank" style="text-decoration: underline;">Schooling</a>
-
-  <a href="[TMS](https://tms.solutya.com/)" target="_blank" style="text-decoration: underline;">TMS</a>
-</div>
-
+- [RTIS](https://rtis.cloud/) - [Carbangla](https://play.google.com/store/apps/details?id=com.carbangla.user) - [Schooling](https://rtis.cloud/) - [Proggamoy Quran](https://proggamoyquran.com/) - [TMS](https://tms.solutya.com/)
+  
 
 
 <h1  width="100"> 
